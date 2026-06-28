@@ -1,5 +1,6 @@
 
 https://zsqlm.com/pages/about/
+https://zsqlm.com/video-tools/m3u8-player-online/16/
 https://zsqlm.com/authors/
 https://zsqlm.com/zh-cn/authors/
 https://zsqlm.com/zh-tw/authors/
@@ -24,7 +25,9 @@ https://zsqlm.com/series/m3u8-player/
 https://zsqlm.com/zh-cn/series/m3u8-player/
 https://zsqlm.com/zh-tw/series/m3u8-player/
 https://zsqlm.com/video-tools/m3u8-player-online/11/
+https://zsqlm.com/video-tools/m3u8-player-online/14/
 https://zsqlm.com/video-tools/m3u8-player-online/04/
+https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/14/
 https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/07/
 https://zsqlm.com/zh-tw/video-tools/m3u8-player-online/03/
 https://zsqlm.com/zh-tw/video-tools/m3u8-player-online/07/
@@ -34,6 +37,7 @@ https://zsqlm.com/zh-tw/video-tools/m3u8-player-online/
 https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/
 https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/11/
 https://zsqlm.com/zh-tw/video-tools/m3u8-player-online/11/
+https://zsqlm.com/zh-tw/video-tools/m3u8-player-online/14/
 https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/10/
 https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/09/
 https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/08/
@@ -57,6 +61,9 @@ https://zsqlm.com/pages/terms/
 https://zsqlm.com/video-tools/
 https://zsqlm.com/video-tools/m3u8-player-online/01/
 https://zsqlm.com/video-tools/m3u8-player-online/08/
+https://zsqlm.com/video-tools/m3u8-player-online/15/
+https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/15/
+https://zsqlm.com/zh-tw/video-tools/m3u8-player-online/15/
 https://zsqlm.com/zh-tw/video-tools/m3u8-player-online/13/
 https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/13/
 https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/01/
@@ -68,6 +75,8 @@ https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/12/
 https://zsqlm.com/zh-cn/pages/about/
 https://zsqlm.com/zh-tw/video-tools/m3u8-player-online/02/
 https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/02/
+https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/16/
+https://zsqlm.com/zh-tw/video-tools/m3u8-player-online/16/
 https://zsqlm.com/zh-tw/video-tools/m3u8-player-online/05/
 https://zsqlm.com/zh-cn/video-tools/m3u8-player-online/05/
 https://zsqlm.com/zh-cn/pages/terms/
